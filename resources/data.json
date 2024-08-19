@@ -1,0 +1,6 @@
+[
+    {"name": "hanan", "age": 26, "gender": "male", "status": "single"},
+    {"name": "Janeth", "age": 24, "gender": "female", "status": "single"},
+    {"name": "Mary", "age": 23, "gender": "female", "status": "single"},
+    {"name": "nico", "age": 23, "gender": "male", "status": "single"}
+]

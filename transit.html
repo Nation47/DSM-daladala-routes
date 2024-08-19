@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="transit.css">
+    <title>Daladala | Routes</title>
+</head>
+<body>
+    <h1>Daladala Routes</h1>
+    <form id="input-search">
+        <input type="text" id="input" placeholder="Enter destination">
+        <!-- <input type="text" id="destination" placeholder="to"> -->
+        <button id="btn">search route</button>
+    </form>
+    <p id="msg"></p>
+    <div class="flex">
+        <div class="container">
+            <div class="routes">
+                <p class="textAlert"></p>
+                <ul class="route"></ul>
+            </div>
+            <ul class="list-item"></ul>
+        </div>
+        <div class="details">
+            <h2 id="dist">Distance: 2 km</h2>
+            <h3 id="ribbon">Car Ribbon: </h3>
+        </div>
+
+    </div>
+    <!-- <div class="spinner" id="spinner" style="display:none;">Loading...</div> -->
+
+
+    <script src="transit.js"></script>
+</body>
+</html>

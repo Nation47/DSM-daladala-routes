@@ -1,0 +1,14 @@
+[
+    {
+        "route": "ubungo",
+        "fare": "300"
+    },
+    {
+        "route": "mawasiliano-mwenge", 
+        "fare": "300"
+    },
+    {
+        "route": "kariakoo",
+        "fare": "300"
+    }
+]
